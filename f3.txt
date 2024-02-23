@@ -1,0 +1,34 @@
+Roll: 01
+Name: Abhinav Kumar
+Section: A
+Semester: 3
+
+Roll: 02
+Name: Abhinav Singh
+Section: A
+Semester: 3
+
+Roll: 03
+Name: Ramesh Kumar
+Section: B
+Semester: 3
+
+Roll: 04
+Name: Raman Kumar Singh
+Section: B
+Semester: 3
+
+Roll: 05
+Name: Rajesh
+Section: C
+Semester: 5
+
+Roll: 06
+Name: Zainul
+Section: B
+Semester: 5
+
+
+
+
+
